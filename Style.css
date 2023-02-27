@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Tilt+Neon&display=swap');
+
+html,body{
+    height: 100%;
+    width: 100%;
+    font-family: 'Tilt Neon', cursive;
+}
+.button{
+    padding: 22px;
+    margin: 0 3px;
+    border: 2px solid black;
+    border-radius: 6px;
+    cursor: pointer
+}
+.item-center{
+    align-items: center;
+    padding-left: 45%;
+    
+}
+.row{
+    margin: 8px 0;
+}
+
+.row input{
+    font-size: 20px;
+    border: 2px solid black;
+    border-radius: 6px;
+    margin: 0;
+    padding: 7px 2px;
+}
